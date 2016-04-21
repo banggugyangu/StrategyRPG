@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UnitInformation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Input/MapBehavior.cs" Line="22" Column="26" />
+      <File FileName="Assets/Scripts/Saving and Loading/SaveInformation.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Character Classes/BaseApprenticeMageClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Character Classes/BaseCharacterClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Saving and Loading/LoadInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Saving and Loading/PPSerialization.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player Movement/PlayerMovement.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/GameInformation/GameInformation.cs" Line="33" Column="52" />
+      <File FileName="Assets/Scripts/CreateNewCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnitInformation.cs" Line="4" Column="40" />
+      <File FileName="Assets/Scripts/Base Unit/Base Unit.cs" Line="78" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
