@@ -14,11 +14,13 @@ public class TestGUI : MonoBehaviour {
 	void Update () {
 	
 	}
-    
+
+	void OnMouseDown(){
     void OnGUI(){
         GUILayout.Label(class1.CharacterClassName);
         GUILayout.Label(class1.CharacterClassDescription);
         GUILayout.Label(class2.CharacterClassName);
         GUILayout.Label(class2.CharacterClassDescription);
     }
+	}
 }
