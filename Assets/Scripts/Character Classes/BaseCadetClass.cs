@@ -16,5 +16,9 @@ public class BaseCadetClass : BaseCharacterClass {
         Leadership = 35;
         Morality = 60;
         Luck = 50;
+        FrontLine = "Slice";
+        FrontLineCount = 2;
+        BackLine = "Slice";
+        BackLineCount = 1;
     }
 }

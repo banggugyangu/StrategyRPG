@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class BaseApprenticeMageClass : BaseCharacterClass {
@@ -9,16 +9,16 @@ public class BaseApprenticeMageClass : BaseCharacterClass {
         Health = 60;
         Strength = 5;
         Vitality = 7;
-        Intelligence = 12;
-        Resistance = 10;
-        Agility = 7;
-        Speed = 6;
+        Intelligence = 16;
+        Resistance = 14;
+        Agility = 10;
+        Speed = 11;
         Leadership = 65;
-        Morality = 45;
+        Morality = 40;
         Luck = 25;
-        FrontLine = "Hit";
-        FrontLineCount = 1;
-        BackLine = "Basic Magic";
-        BackLineCount = 2;
+        FrontLine = "Battle Magic";
+        FrontLineCount = 2;
+        BackLine = "Superior Magic";
+        BackLineCount = 3;
     }
 }

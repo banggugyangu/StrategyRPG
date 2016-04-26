@@ -11,12 +11,16 @@ public class BaseCharacterClass {
 	private int strength;
 	private int vitality;
 	private int intelligence;
-    private int resistance;
+	private int resistance;
 	private int agility;
 	private int speed;
 	private int leadership;
 	private int morality;
 	private int luck;
+	private string frontLine;
+	private int frontLineCount;
+	private string backLine;
+	pricate int backLineCount;
 
 	public string CharacterClassName {
 		get{ return characterClassName;}
@@ -66,6 +70,22 @@ public class BaseCharacterClass {
     public int Luck{
         get{return luck;}
         set{luck = value;}
+    }
+    public int FrontLine{
+        get{return frontLine;}
+        set{frontLine = value;}
+    }
+    public int FrontLineCount{
+        get{return frontLineCount;}
+        set{frontLineCount = value;}
+    }
+    public string BackLine{
+        get{return backLine;}
+        set{backLine = value;}
+    }
+    public int BackLineCount{
+        get{return backLineCount;}
+        set{backLineCount = value;}
     }
 
 }
